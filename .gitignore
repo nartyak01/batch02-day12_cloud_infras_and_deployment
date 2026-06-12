@@ -31,6 +31,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# ── Docker volumes (local dev) ─────────────────────��──────
+# ── Docker volumes (local dev) ───────────────────────────
 data/
 volumes/
+Day08_RAG_pipeline_cohort2/
